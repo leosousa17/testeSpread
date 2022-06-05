@@ -1,5 +1,6 @@
-#Robo criado para realizar o teste da Spread Tecnologia
+#Robo criado para realizar o teste da Spread Tecnologia 
 Etapas do robô:
+
 Para cada registro da coluna “CPF” efetuar os tratamentos:
 •	Acessar o site no link https://validadordecpf.clevert.com.br/v-cpf.php;
 •	Informar o CPF e verificar o seu retorno, caso seja falso excluir a linha do registro;
